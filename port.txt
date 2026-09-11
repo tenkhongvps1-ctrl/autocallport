@@ -1,2 +1,2 @@
-cnc:autorack.proxy.rlwy.net
-port:57067
+cnc:metro.proxy.rlwy.net
+port:40801
