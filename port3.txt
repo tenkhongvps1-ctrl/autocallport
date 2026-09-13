@@ -1,0 +1,2 @@
+cnc:localhost
+port:24864
