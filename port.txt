@@ -1,2 +1,2 @@
-cnc:altaria.proxy.rlwy.net
-port:56328
+cnc:iriguchi.proxy.rlwy.net
+port:56610
