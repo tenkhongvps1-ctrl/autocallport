@@ -1,2 +1,2 @@
-cnc:iriguchi.proxy.rlwy.net
-port:56610
+cnc:localhost
+port:2096
