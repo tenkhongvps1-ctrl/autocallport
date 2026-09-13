@@ -1,2 +1,2 @@
-cnc:localhost
-port:24864
+cnc:monorail.proxy.rlwy.net
+port:59744
