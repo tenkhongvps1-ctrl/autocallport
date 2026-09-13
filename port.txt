@@ -1,2 +1,2 @@
-cnc:metro.proxy.rlwy.net
-port:40801
+cnc:altaria.proxy.rlwy.net
+port:56328
