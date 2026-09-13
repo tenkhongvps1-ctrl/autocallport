@@ -1,2 +1,0 @@
-cnc:localhost
-port:2096
