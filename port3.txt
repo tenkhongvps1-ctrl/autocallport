@@ -1,1 +1,1 @@
-localhost:4444
+laurel-superman.tun.ply.gg:25565
